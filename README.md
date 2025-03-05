@@ -1,3 +1,28 @@
+# Vite React App
+
+This project is a React application bootstrapped with **Vite**. The application showcases basic React functionality, including a homepage displaying user information, and is set up with essential dependencies like `react-router-dom`, `axios`, and `dotenv`.
+
+## Features
+- **Homepage**: Displays your name and contact details.
+- **Dependencies**:
+  - `react-router-dom` for navigation.
+  - `axios` for future API requests.
+  - `dotenv` for managing environment variables.
+
+---
+
+## Prerequisites
+Ensure you have the following installed:
+- Node.js (v14 or higher)
+- npm (Node Package Manager)
+
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Arunkumar-12-glitch/vite-app.git
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
